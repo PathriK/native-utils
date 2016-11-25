@@ -13,8 +13,8 @@
     </licenses>
 
     <scm>
-		<connection>https://github.com/PathriK/native-utils.git</connection>
-		<developerConnection>https://github.com/PathriK/native-utils.git</developerConnection>
+		<connection>scm:git:git@github.com:PathriK/native-utils.git</connection>
+		<developerConnection>scm:git:git@github.com:PathriK/native-utils.git</developerConnection>
 		<url>https://github.com/PathriK/native-utils</url>
 		<tag>HEAD</tag>
 	</scm>
